@@ -1,0 +1,26 @@
+[
+  {
+    "nama_tugas": "menghitung",
+    "mata_pelajaran": "mtk",
+    "guru": "p kus",
+    "tanggal": "2026-01-30",
+    "jam": "12:00",
+    "status": "Belum Selesai"
+  },
+  {
+    "nama_tugas": "membuat progrm todolist",
+    "mata_pelajaran": "tik",
+    "guru": "pak sopan",
+    "tanggal": "2026-01-30",
+    "jam": "08:45",
+    "status": "Belum Selesai"
+  },
+  {
+    "nama_tugas": "mengetik",
+    "mata_pelajaran": "tik",
+    "guru": "pak sopan",
+    "tanggal": "2026-01-30",
+    "jam": "22:20",
+    "status": "Belum Selesai"
+  }
+]
